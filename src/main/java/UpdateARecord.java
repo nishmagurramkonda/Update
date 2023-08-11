@@ -15,10 +15,6 @@ import java.sql.Statement;
  * UPDATE table_name SET col_1 = val_1, col_2 = val_2, ...col_N = val_N WHERE condition;
  *
  * NOTE: The WHERE condition is important because if you leave this out, that column will be updated throughout all the records in the table.
- *
- *
- * Additional Resource if needed: https://www.w3schools.com/sql/sql_update.asp
- *
  */
 public class UpdateARecord {
 
